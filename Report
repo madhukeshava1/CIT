@@ -1,0 +1,15 @@
+
+Cameras--
+
+Cam_loc_4: FAIL Bug still there in VNACamera
+Cam_Gen_1: FAIL still 5 seconds diffrenece in time stamp
+Cam_cinfig_27: Pass 
+Cam_zone_4: FAIL Bug still there in VNACamera
+Cam_zone_7: Fail Its still in Dev status
+
+Incidents--
+
+Inc_Grid_1: I cant find more than 1 incident for VNACamera other its pass
+Inc_man_1: Pass
+Inc_man_2: Pass
+
